@@ -1,0 +1,16 @@
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Infrastructure.deps.json
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Infrastructure.dll
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Infrastructure.pdb
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Application.dll
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Entities.dll
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Shared.dll
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Application.pdb
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Entities.pdb
+G:\Travel\Travel\src\Travel.Infrastructure\bin\Debug\netcoreapp3.1\Travel.Shared.pdb
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.csprojAssemblyReference.cache
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.AssemblyInfoInputs.cache
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.AssemblyInfo.cs
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.csproj.CopyComplete
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.dll
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.pdb
+G:\Travel\Travel\src\Travel.Infrastructure\obj\Debug\netcoreapp3.1\Travel.Infrastructure.csproj.CoreCompileInputs.cache

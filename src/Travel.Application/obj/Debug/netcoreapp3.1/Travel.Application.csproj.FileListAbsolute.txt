@@ -1,0 +1,14 @@
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Application.deps.json
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Application.dll
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Application.pdb
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Entities.dll
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Shared.dll
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Shared.pdb
+G:\Travel\Travel\src\Travel.Application\bin\Debug\netcoreapp3.1\Travel.Entities.pdb
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.csprojAssemblyReference.cache
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.AssemblyInfoInputs.cache
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.AssemblyInfo.cs
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.csproj.CopyComplete
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.dll
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.pdb
+G:\Travel\Travel\src\Travel.Application\obj\Debug\netcoreapp3.1\Travel.Application.csproj.CoreCompileInputs.cache

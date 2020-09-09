@@ -1,0 +1,9 @@
+G:\Travel\Travel\src\Travel.Entities\bin\Debug\netcoreapp3.1\Travel.Entities.deps.json
+G:\Travel\Travel\src\Travel.Entities\bin\Debug\netcoreapp3.1\Travel.Entities.dll
+G:\Travel\Travel\src\Travel.Entities\bin\Debug\netcoreapp3.1\Travel.Entities.pdb
+G:\Travel\Travel\src\Travel.Entities\obj\Debug\netcoreapp3.1\Travel.Entities.csprojAssemblyReference.cache
+G:\Travel\Travel\src\Travel.Entities\obj\Debug\netcoreapp3.1\Travel.Entities.AssemblyInfoInputs.cache
+G:\Travel\Travel\src\Travel.Entities\obj\Debug\netcoreapp3.1\Travel.Entities.AssemblyInfo.cs
+G:\Travel\Travel\src\Travel.Entities\obj\Debug\netcoreapp3.1\Travel.Entities.dll
+G:\Travel\Travel\src\Travel.Entities\obj\Debug\netcoreapp3.1\Travel.Entities.pdb
+G:\Travel\Travel\src\Travel.Entities\obj\Debug\netcoreapp3.1\Travel.Entities.csproj.CoreCompileInputs.cache
